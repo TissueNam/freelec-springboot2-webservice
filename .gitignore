@@ -18,6 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
+# 이미 등록 되어있더라
 .idea
 *.iws
 *.iml
